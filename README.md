@@ -1,4 +1,4 @@
-# claude-marketplace
+# jacky-marketplace
 
 个人 Claude Code skill 市场，存放自己沉淀下来的 skills。
 
@@ -6,10 +6,10 @@
 
 ```bash
 # 添加市场
-/plugin marketplace add JackYuan12138/claude-marketplace
+/plugin marketplace add JackYuan12138/Claude-Marketplace
 
 # 安装某个 skill（每个 skill 对应一个 plugin）
-/plugin install wechat-ocr@claude-marketplace
+/plugin install wechat-ocr@jacky-marketplace
 ```
 
 ## 已收录 skills
