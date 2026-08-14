@@ -1,0 +1,4 @@
+# 引导脚本运行时克隆的 wechat_ocr 仓库副本
+vendor/
+__pycache__/
+*.pyc

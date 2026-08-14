@@ -1,0 +1,19 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "JackYuan12138"
+  },
+  "metadata": {
+    "description": "个人 Claude Code skill 市场",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "wechat-ocr",
+      "description": "使用微信本地 OCR 模型识别图片文字",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/wechat-ocr"]
+    }
+  ]
+}
